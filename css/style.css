@@ -13,7 +13,6 @@ body {
 .main_container {
     margin: 0 auto;
     max-width: 700px;
-    background-color: rgb(228, 228, 228);
 }
 
 h1 {
@@ -140,6 +139,130 @@ img {
 
 .kindly_mom_papa_box {}
 
-.kindly_mom_papa_box p {
+.kindly_mom_papa_box h4 {
+    color: #000;
+    font-size: 22px;
+    font-style: italic;
+    font-weight: 400;
+    margin-top: 20px;
+}
 
+.stewie_box {
+    margin-top: 31px;
+}
+
+.stewie_box h3 {
+    color: #000;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 22px;
+    /* 100% */
+}
+
+.stewie_box p {
+    margin: 22px 0 12px;
+    color: #000;
+    font-size: 18px;
+    font-weight: 400;
+    margin-left: 10px;
+}
+
+#description {
+    color: #000;
+    font-size: 18px;
+    margin-left: 10px;
+    margin-top: 55px;
+    margin-bottom: 46px;
+    
+    /* 122.222% */
+}
+
+.print_box {
+    display: flex;
+    justify-content: end;
+}
+
+.box {
+    width: 570px;
+    background-color: #ADC7784D;
+    padding: 22px 25px;
+}
+
+.plus_flex {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.print_one {
+    width: 94px;
+    height: 133px;
+}
+
+.print_two {
+    width: 61px;
+    height: 102px;
+
+}
+
+.box p {
+    color: #000;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+#pp {
+    margin-top: 18px;
+    margin-bottom: 42px;
+}
+
+.print_title h4 {
+    color: #000;
+    font-size: 22px;
+    font-weight: 500;
+    /* 100% */
+}
+
+.print_title {
+    margin-top: 27px;
+}
+
+
+h5 {
+    color: #000;
+    font-size: 22px;
+    font-weight: 700;
+    margin: 84px 0 27px;
+}
+
+.ball_box {
+    display: flex;
+    justify-content: end;
+}
+
+.ball_content {
+    width: 570px;
+    background-color: #ADC7784D;
+    padding: 22px 25px;
+}
+
+.ball_content img {
+    width: 133px;
+    margin-bottom: 24px;
+}
+
+.ball_content p {
+    color: #000;
+    font-size: 15px;
+    font-weight: 500;
+}
+.end{
+    color: #858585;
+font-size: 10px;
+font-weight: 400;
+margin: 75px 0 7px;
+}
+#end{
+font-size: 10px;
+font-weight: 400;
 }
